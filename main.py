@@ -1,4 +1,3 @@
 #def sas
 
-#print ('hello!')
-print ('hello world!')
+print ('by by')
