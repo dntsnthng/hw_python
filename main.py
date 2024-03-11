@@ -1,4 +1,4 @@
 #def sas
 
 print ('by by')
-print ("99 problems")
+print ("0 problems")
